@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h2 align="center">👋 Welcome to my GitHub Profile!</h2>
 
-🎓 I'm currently completing my Master of Data Science at the University of British Columbia (UBC), building on my prior M.S. in Business Analytics (Boston University) and B.S. in Actuarial Mathematics and Statistics(Penn State). I'm passionate about combining machine learning, analytics, and storytelling to solve real-world problems.
+🎓 I'm currently completing my Master of Data Science at the University of British Columbia (UBC), building on my prior M.S. in Business Analytics (Boston University) and B.S. in Actuarial Mathematics and Statistics (Penn State). I'm passionate about combining machine learning, analytics, and storytelling to solve real-world problems.
 
 
 ---
@@ -26,17 +26,11 @@
 #### [🏆 UBC Medicine Datathon Winner (2025)](https://github.com/y1chi-z/datathon_team6)
 Developed a deep learning model to detect chest diseases from X-ray images in a fast-paced team competition.
 
----
-
 #### 📦 [DataMop: A Python Package for Streamlined EDA](https://github.com/y1chi-z/DataMop_package_group14)
 A user-friendly toolkit to automate exploratory data analysis and accelerate insights. Includes auto-profiling, missing value detection, and outlier checks.
 
----
-
 #### 🚗 [VDash: An Interactive Visualization Dashboard](https://github.com/y1chi-z/DSCI-532_2025_4_vdash)
 A real-time dashboard built with Dash and Plotly for exploring trends in vehicle data.
-
----
 
 #### 🍄 [Mushroom Classifier: Predicting Edibility from Morphological Features](https://github.com/y1chi-z/mushroom_classifier)
 Built and evaluated classification models to predict whether mushrooms are edible based on shape, color, and other traits.
