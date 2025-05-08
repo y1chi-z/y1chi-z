@@ -45,12 +45,7 @@ Built and evaluated classification models to predict whether mushrooms are edibl
 
 <!-- Experience -->
 ### 💼 Professional Experience
-
-**Data Scientist / Senior Business Analyst**  
-*GrowingIO*  
 Experienced in machine learning, data visualization, and marketing analytics across industries such as retail and real estate.
-
----
 
 #### 📦 LEGO Demand Forecasting Model
 - Built a Python-based demand forecasting pipeline using historical sales, campaigns, and product metadata.
