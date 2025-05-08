@@ -26,32 +26,20 @@
 #### [🏆 UBC Medicine Datathon Winner (2025)](https://github.com/y1chi-z/datathon_team6)
 Developed a deep learning model to detect chest diseases from X-ray images in a fast-paced team competition.
 
-- **Tech**: Python, PyTorch, scikit-learn, DenseNet
-- **Outcome**: Achieved **82% accuracy** on the validation set, and awarded **1st Place** for technical rigor and clinical relevance.
-
 ---
 
 #### 📦 [DataMop: A Python Package for Streamlined EDA](https://github.com/y1chi-z/DataMop_package_group14)
 A user-friendly toolkit to automate exploratory data analysis and accelerate insights. Includes auto-profiling, missing value detection, and outlier checks.
-
-- **Tech**: Python, Pandas, Seaborn
-- **Outcome**: Simplifies EDA workflows for analysts and data scientists
 
 ---
 
 #### 🚗 [VDash: An Interactive Visualization Dashboard](https://github.com/y1chi-z/DSCI-532_2025_4_vdash)
 A real-time dashboard built with Dash and Plotly for exploring trends in vehicle data.
 
-- **Tech**: Dash, Plotly, Flask, Pandas
-- **Outcome**: Enables interactive filtering and drill-downs by model and region
-
 ---
 
 #### 🍄 [Mushroom Classifier: Predicting Edibility from Morphological Features](https://github.com/y1chi-z/mushroom_classifier)
 Built and evaluated classification models to predict whether mushrooms are edible based on shape, color, and other traits.
-
-- **Tech**: Scikit-learn, XGBoost, SHAP
-- **Outcome**: Achieved >90% accuracy with interpretable model outputs
 
 ---
 
