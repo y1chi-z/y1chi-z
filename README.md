@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h2 align="center">👋 Welcome to my GitHub Profile!</h2>
 
-🎓 I'm currently completing my Master of Data Science at the University of British Columbia (UBC), building on my prior M.S. in Business Analytics (Boston University) and B.S. in Actuarial Mathematics (Penn State). I'm passionate about combining machine learning, analytics, and storytelling to solve real-world problems.
+🎓 I'm currently completing my Master of Data Science at the University of British Columbia (UBC), building on my prior M.S. in Business Analytics (Boston University) and B.S. in Actuarial Mathematics and Statistics(Penn State). I'm passionate about combining machine learning, analytics, and storytelling to solve real-world problems.
 
 
 ---
