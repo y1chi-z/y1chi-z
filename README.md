@@ -21,9 +21,9 @@
 ---
 
 <!-- Projects -->
-### 🚀 Projects
+### 💻 Projects
 
-- **[🏆 UBC Medicine Datathon Winner (2025)](https://github.com/y1chi-z/datathon_team6)**
+- **[🏆 UBC Medicine Datathon Winner (2025)](https://github.com/y1chi-z/datathon_team6)** ｜
   Developed a deep learning model to detect chest diseases from X-ray images in a fast-paced team competition.
 
 - **📦 [DataMop: A Python Package for Streamlined EDA](https://github.com/y1chi-z/DataMop_package_group14)**
